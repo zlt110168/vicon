@@ -1,5 +1,5 @@
 {
-  "name": "zlt-v-icon",
+  "name": "v-icon",
   "version": "0.0.6",
   "description": "Juuust Vue Icon, Automation workflow with Figma",
   "main": "bundle/index.common.js",
